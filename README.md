@@ -1,22 +1,12 @@
-# Hi there 👋
+<h2 align="left">Hi 👋, I'm Tom</h2>
+<h3 align="left">A developer from Germany</h3>
 
 
-[![schmelto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=schmelto&show_icons=true)](https://github.com/schmelto)
-
-<h3>Where to find me</h3>
-
-<a href="https://github.com/schmelto" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/tomschmelzer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<!--
-**schmelto/schmelto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=schmelto&show_icons=true&count_private=true" alt="schmelto" /></p>
+  
+<p align="left">
+  <a href="https://dev.to/schmelto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="schmelto" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/tomschmelzer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tomschmelzer" height="30" width="30" /></a>
+  <a href="https://stackoverflow.com/users/11155942" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11155942" height="30" width="30" /></a>
+  <a href="https://instagram.com/schmelto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="schmelto" height="30" width="30" /></a>
+</p>
