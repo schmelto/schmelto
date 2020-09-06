@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Tom</h2>
-<h3 align="left">A developer from Germany</h3>
+<h3 align="left">A student and developer from Germany</h3>
 
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=schmelto&show_icons=true&count_private=true" alt="schmelto" /></p>
