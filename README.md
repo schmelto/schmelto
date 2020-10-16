@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **UI5 stuff**
 
-- 🌱 I’m currently learning **ITIL**
+- 🌱 I’m currently learning **ITIL** and **SAPUI5**
 
 - 👯 I’m looking to collaborate on **anything**
 
