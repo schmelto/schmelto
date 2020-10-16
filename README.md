@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Tom</h1>
 <h3 align="center">A developer from Germany.</h3>
 
-- 🔭 I’m currently working on **UI5 Stuff**
+- 🔭 I’m currently working on **UI5 stuff**
 
 - 🌱 I’m currently learning **ITIL**
 
