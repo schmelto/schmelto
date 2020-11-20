@@ -14,3 +14,8 @@
   <a href="https://people.sap.com/schmelto"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sap.svg" alt="schmelto" height="30" width="30" /></a>
 </p>
 
+<h3 align="center">Hackathons</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=schmelto&repo=ImpactHackathon" alt="ImpactHackathon" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=schmelto&repo=burkert-hackathon" alt="burkert-hackathon" /> 
+</p>
