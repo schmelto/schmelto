@@ -1,6 +1,19 @@
 <h1 align="center">Hi there👋, I'm Tom</h1>
 <h3 align="center">A developer from Germany.</h3>
 <p align="center">d9ffaca46d5990ec39501bcdf22ee7a1</p>
+
+```js
+const name = "Tom"
+
+Developer dev = new Developer(name);
+
+while(dev.isCoding())  
+{
+  dev.listenToMusic();
+  dev.openStackOverFlow();
+}
+```
+
 <p align="center">
   <a href="https://www.linkedin.com/in/tomschmelzer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://dev.to/schmelto"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
