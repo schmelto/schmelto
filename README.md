@@ -3,7 +3,7 @@
 <p align="center">d9ffaca46d5990ec39501bcdf22ee7a1</p>
 
 ```js
-const name = "Tom"
+const name = 'Tom'
 
 Developer dev = new Developer(name);
 
