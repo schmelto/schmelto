@@ -14,6 +14,13 @@ while(dev.isCoding())
 }
 ```
 
+<p align="center">Currently I am facing the #100daysofcode challange exploring different fields in tech. Check out the repo <a href="https://github.com/schmelto/100-days-of-code">here</a>!</p>
+
+<p align="center">Otherwise check out my <a href="https://schmelto.github.io/portfolio/">portfolio website</a> to get to know my tech stack and other cool stuff.</p>
+
+
+<p align="center">Feel free reaching out to me at following platforms:</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/tomschmelzer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://dev.to/schmelto"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
