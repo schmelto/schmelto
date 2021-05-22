@@ -13,11 +13,7 @@ while(dev.isCoding())
   dev.openStackOverFlow();
 }
 ```
-
-<p align="center">Currently I am facing the #100daysofcode challange exploring different fields in tech. Check out the repo <a href="https://github.com/schmelto/100-days-of-code">here</a>!</p>
-
-<p align="center">Otherwise check out my <a href="https://schmelto.github.io/portfolio/">portfolio website</a> to get to know my tech stack and other cool stuff.</p>
-
+<p align="center">Check out my <a href="https://schmelto.github.io/portfolio/">portfolio website</a> to get to know my tech stack and other cool stuff.</p>
 
 <p align="center">Feel free reaching out to me at following platforms:</p>
 
