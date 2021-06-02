@@ -11,6 +11,7 @@ while(dev.isCoding())
 {
   dev.listenToMusic();
   dev.openStackOverFlow();
+  dev.drinkWater();
 }
 ```
 <p align="center">Check out my <a href="https://schmelto.github.io/portfolio/">portfolio website</a> to get to know my tech stack and some cool other stuff.</p>
