@@ -14,7 +14,7 @@ while(dev.isCoding())
   dev.drinkWater();
 }
 ```
-<p align="center">Check out my <a href="https://schmelto.github.io/portfolio/">portfolio website</a> to get to know my tech stack and some other stuff.</p>
+<p align="center">Check out my <a href="https://schmelto.github.io/portfolio/">portfolio website</a> to get to know my tech stack and some other cool stuff.</p>
 
 <p align="center">Feel free reaching out to me at following platforms:</p>
 
