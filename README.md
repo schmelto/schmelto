@@ -19,6 +19,7 @@ while(dev.isCoding())
 <p align="center">
   <a href="https://dev.to/badge/hacktoberfest-2020"><img src="https://user-images.githubusercontent.com/30869493/134504434-590236f3-d00b-4fb4-9454-baff8497beeb.png" height="100px"></a>
   <a href="https://github.com/SAP-samples/devtoberfest-2021"><img src="https://user-images.githubusercontent.com/30869493/134504475-3893a5e1-2922-4243-a86a-baf17ac61400.png" height="100px"></a>
+  <a href="https://dev.to/badge/hacktoberfest-2021"><img src="https://user-images.githubusercontent.com/30869493/141280079-58814cbd-0ec9-4d84-a80e-b572a3c895b9.png" height="100px"></a>
 </p>
 
 <p align="center">Feel free reaching out to me at following platforms:</p>
