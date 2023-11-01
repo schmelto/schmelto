@@ -21,5 +21,3 @@ while(dev.isCoding())
   <a href=""><img src="https://user-images.githubusercontent.com/30869493/194870619-f01c3f8f-9780-46a9-ab74-af66005cb137.svg" height="60px"></a>
   <a href=""><img src="https://user-images.githubusercontent.com/30869493/197983335-5b4b4743-31b1-4c5d-a034-aa76cec146ed.png" height="60px"></a>
 </p>
-
-[![An image of @schmelto's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/schmelto)](https://holopin.io/@schmelto)
